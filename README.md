@@ -3,9 +3,9 @@
 <h1 align="center"></h1>
 <h3 align="center">Minimalist | Developer</h3>
 
-- 🔭 I’m currently working on **Augmented Reality**
+- 🔭 I’m currently working on **Augmented Reality.**
 
-- 🌱 I’m currently learning **OpenGL and Unity**
+- 🌱 I’m currently learning **OpenGL and Unity.**
 
 - 📫 How to reach me **dhruvmohanbhat@gmail.com.**
 
