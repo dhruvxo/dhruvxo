@@ -3,7 +3,7 @@
 <h1 align="center"></h1>
 <h3 align="center">Minimalist | Developer</h3>
 
-- 🔭 I’m currently working on **Augmented Reality.**
+- 🔭 I’m currently working on **Graphic Design.**
 
 - 🌱 I’m currently learning **OpenGL and Unity.**
 
