@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Graphic Design.**
 
-- 🌱 I’m currently learning **OpenGL and Unity.**
+- 🌱 I’m currently learning **Vulkan.**
 
 - 📫 How to reach me **dhruvmohanbhat@gmail.com.**
 
